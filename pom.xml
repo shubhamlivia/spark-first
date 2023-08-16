@@ -17,6 +17,13 @@
         <scala.version>2.12.17</scala.version>
     </properties>
 
+    <scm>
+        <connection>scm:git:https://github.com/shubhamlivia/secondProject.git</connection>
+        <developerConnection>scm:git:https://github.com/shubhamlivia/secondProject.git</developerConnection>
+        <url>https://github.com/shubhamlivia/secondProject</url>
+    </scm>
+
+
     <dependencies>
         <!-- https://mvnrepository.com/artifact/org.apache.spark/spark-core -->
         <dependency>
